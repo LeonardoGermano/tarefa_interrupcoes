@@ -45,10 +45,11 @@ A comunicação com os LEDs WS2812 é feita utilizando o protocolo de controle e
 Aqui estão dois vídeos para demonstrar o funcionamento do código, tanto na placa real quanto no ambiente de desenvolvimento Wokwi VS Code.
 
 ### 1. Código rodando na placa BitDogLab
-![Vídeo 1](https://youtu.be/1-Gqy6KrePk)
+[Assista o vídeo do código rodando na placa BitDogLab](https://youtu.be/1-Gqy6KrePk)
 
 ### 2. Código rodando no Wokwi VS Code
-![Vídeo 2](https://youtu.be/DZTkCRmFc2w)
+[Assista o vídeo do código rodando no Wokwi VS Code](https://youtu.be/DZTkCRmFc2w)
+
 
 ## Como Rodar
 
